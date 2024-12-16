@@ -132,10 +132,10 @@ This project is structured to ensure incremental development, with each section 
 - **Tasks**:
   1. Deploy the backend on platforms like Heroku.
      - **Reading**: [Deploying Node.js Apps](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video**: [Heroku Deployment](https://www.youtube.com/watch?v=Q9foh9XTglE)
+     - **Video**: [Heroku Deployment](https://www.youtube.com/watch?v=5_7uz6bErpY)
   2. Deploy the frontend on platforms like Netlify.
      - **Reading**: [Deploying React Apps](https://www.netlify.com/)  
-     - **Video**: [React App Deployment](https://www.youtube.com/watch?v=volAze3fpt0)
+     - **Video**: [React App Deployment](https://www.youtube.com/watch?v=tVzpC5_AC8M)
 
 - **Deliverables**:
   - A live Todo app accessible via public URL.
