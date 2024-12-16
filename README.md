@@ -81,7 +81,7 @@ This project is structured to ensure incremental development, with each section 
 - **Tasks**:
   1. Set up the project structure with client and server folders.
      - **Reading**: [Node.js Project Setup](https://nodejs.org/en/docs/)  
-     - **Video**: [How to Install Node.js and VSCode](https://www.youtube.com/watch?v=HfM1SJJszU4)
+     - **Video**: [How to Install Node.js and VSCode](https://www.youtube.com/watch?v=NqANV4wXhx4&t=38s)
   2. Initialize Node.js and install dependencies for backend (Express, MongoDB, dotenv, Nodemon).
      - **Reading**: [Express Installation](https://expressjs.com/)  
      - **Video**: [Setting Up an Express Server](https://www.youtube.com/watch?v=L72fhGm1tfE)
