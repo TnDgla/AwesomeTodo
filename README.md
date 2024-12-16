@@ -115,12 +115,12 @@ This project is structured to ensure incremental development, with each section 
 - **Tasks**:
   1. Create React components for displaying, adding, updating, and deleting todos.
      - **Reading**: [React Component Basics](https://react.dev/learn/your-first-component)  
-     - **Video**: [Building Components in React](https://www.youtube.com/watch?v=tHjxSVaj_wY)
+     - **Video**: [Building Components in React](https://www.youtube.com/watch?v=S4VH8hddg8c&t=90s)
   2. Fetch data from backend APIs and display it in the UI.
      - **Reading**: [React Fetch API](https://axios-http.com/docs/intro)  
      - **Video**: [React Axios Tutorial](https://www.youtube.com/watch?v=Gl-vOU7ZU9A)
   3. Add form validation for creating and updating todos.
-     - **Reading**: [React Forms](https://react.dev/learn/handling-events)  
+     - **Reading**: [React Forms](reactjs.org/docs/forms.html)  
      - **Video**: [Formik and Yup Tutorial](https://www.youtube.com/watch?v=7Ophfq0lEAY)
 
 - **Deliverables**:
