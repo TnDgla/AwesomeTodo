@@ -101,10 +101,10 @@ This project is structured to ensure incremental development, with each section 
      - **Video**: [Building RESTful APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Integrate MongoDB Atlas for data storage.
      - **Reading**: [MongoDB Atlas Setup](https://www.mongodb.com/)  
-     - **Video**: [MongoDB Atlas Walkthrough](https://www.youtube.com/watch?v=rPqRyYJmx2g)
+     - **Video**: [MongoDB Atlas Walkthrough](https://www.youtube.com/watch?v=bBA9rUdqmgY&t=2s)
   3. Test endpoints using Postman.
-     - **Reading**: [Postman API Testing](https://learning.postman.com/)  
-     - **Video**: [Postman Basics](https://www.youtube.com/watch?v=HvvE4BYghJ8)
+     - **Reading**: [Postman API Testing](https://www.javatpoint.com/postman)  
+     - **Video**: [Postman Basics](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=2s)
 
 - **Deliverables**:
   - Fully functional backend with tested endpoints.
